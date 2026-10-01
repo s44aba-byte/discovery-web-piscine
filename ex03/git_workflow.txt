@@ -1,0 +1,9 @@
+How I work with Git in this project:
+
+1. Create or edit my files (using nano or scripts).
+2. Stage the changes so Git can track them:
+   git add <file_name>
+3. Save a local snapshot with a clear message:
+   git commit -m "what I did"
+4. Push my work to GitHub to update the remote repo:
+   git push origin main
